@@ -1,0 +1,10 @@
+#data
+*.rar
+*.zip
+
+
+#文件夹
+others/
+datas/
+.vs/
+x64/
